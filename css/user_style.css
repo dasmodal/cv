@@ -44,3 +44,8 @@ div.container {
 ul.education-list {
   font-weight: bold;
 }
+
+.work-experience p {
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
